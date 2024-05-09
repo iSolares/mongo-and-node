@@ -1,0 +1,19 @@
+{
+  "name": "mongo-sexta",
+  "version": "1.0.0",
+  "description": "apresentacao",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eu",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^6.6.6",
+    "mongoose": "^8.3.4"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
